@@ -21,3 +21,7 @@ github oauth - can't register users because app lacks backend (why?)
 - center text vertically: by setting line height to the same size of height.
 
 - css ::after adds an element after the content, before the HTML tag closes
+
+- react icons plugin
+
+- one-sided auto margins
