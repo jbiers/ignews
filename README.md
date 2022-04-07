@@ -25,3 +25,7 @@ github oauth - can't register users because app lacks backend (why?)
 - react icons plugin
 
 - one-sided auto margins
+
+- API calls using the state + useEffect technique we've learned, only happen at a browser level. That means, the page will be rendered first and then the call will happen, causing a design shift and making items invisible to bots and crawlers. Calls can (and in this case, should, happen in the server)
+
+- Intl API: internationalization API, provides NumberFormat and DateTimeFormat, for dealing natively with currencies, percentages and dates
