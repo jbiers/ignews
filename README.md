@@ -31,3 +31,7 @@ github oauth - can't register users because app lacks backend (why?)
 - SSR with nextJS by using getServerSideProps
 
 - Intl API: internationalization API, provides NumberFormat and DateTimeFormat, for dealing natively with currencies, percentages and dates
+
+- Static Site Generation with getStaticProps
+
+- When to use Client Side API calls, Server Side or Static Site Generation
