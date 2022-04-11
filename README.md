@@ -35,3 +35,5 @@ github oauth - can't register users because app lacks backend (why?)
 - Static Site Generation with getStaticProps
 
 - When to use Client Side API calls, Server Side or Static Site Generation
+
+-next-auth for authentication with several providers
